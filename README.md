@@ -35,8 +35,7 @@ A console-based Library Management System developed in C++.
 ## Admin Access
 
 The current demo version uses:
-
-Username: Not required  
+ 
 Password: `admin123`
 
 ## Project Status
